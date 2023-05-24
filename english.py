@@ -11,7 +11,7 @@ file = 'file'
 edit = 'edit'
 help_button = 'help'
 about_button = 'about'
-about_text = 'Developed by Roman Sonnik especially for the assistant.\nAll rights is protected....\nOr not?'
+about_text = 'Developed by Roman Sonnik using Chat GPT and google.'
 help_text = 'In case of bugs, please contact the administrator.' \
              '\nBasic keyboard shortcuts:' \
              '\n\nCopy           Ctrl+C' \

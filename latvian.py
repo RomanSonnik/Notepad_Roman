@@ -11,7 +11,7 @@ file = 'fails'
 edit = 'rediģēt'
 help_button = 'palīdzet'
 about_button = 'par rogrammu'
-about_text = 'Izstrādājis Romans Sonniks īpaši palīgam.\nVisas tiesības ir aizsargātas.... \nVai nē?'
+about_text = 'Izstrādāja Roman Sonnik, izmantojot Chat GPT un Google.'
 help_text = 'Kļūdu gadījumā, lūdzu, sazinieties ar administratoru.' \
              '\nPamata īsinājumtaustiņi:' \
              '\n\nKopēt          Ctrl+C' \
