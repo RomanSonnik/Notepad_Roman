@@ -25,7 +25,7 @@ window = notepad.Tk()
 window.title('Notepad')
 min_window_width = 1000
 min_window_height = 600
-window.iconbitmap('icon.ico')
+#window.iconbitmap('icon.ico')
 
 # get the screen dimension
 screen_width = window.winfo_screenwidth()
