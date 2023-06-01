@@ -70,6 +70,7 @@ def open_file():
 
 def save_file():
     file_path = filedialog.asksaveasfilename(filetypes=((file_types, '*.txt'), (all_files, '*.*')))
+    file_path = file_path + '.txt'
     f = open(file_path, 'w', encoding='utf-8')
     text_save = text.get('1.0', END)
     f.write(text_save)
